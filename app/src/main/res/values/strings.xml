@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calc</string>
+    <string-array name="spinner">
+        <item> Addition </item>
+        <item> Subtraction </item>
+        <item> Multiply </item>
+        <item> Divide </item>
+    </string-array>
+</resources>
